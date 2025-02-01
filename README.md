@@ -68,19 +68,5 @@ Este proyecto es una aplicación web que utiliza una API RESTful desarrollada co
 
 ## Uso
 
-[Proporciona instrucciones sobre cómo utilizar la aplicación, por ejemplo, cómo realizar operaciones CRUD, autenticación, etc.]
+Proporciona instrucciones sobre cómo utilizar la aplicación, por ejemplo, cómo realizar operaciones CRUD, autenticación, etc.
 
-## Estructura del Proyecto
-
-```plaintext
-API-REST-Spring-Angular/
-├── backend/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/
-│   │   │   └── resources/
-│   └── pom.xml
-└── frontend/
-    ├── src/
-    └── package.json
-```
